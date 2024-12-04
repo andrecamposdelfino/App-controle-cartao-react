@@ -1,0 +1,77 @@
+.ln-container {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: rgb(240, 240, 240);
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.ln-container h1 {
+    color: rgb(148, 148, 148);
+}
+
+.ln-container a{
+    text-decoration: none;
+    color: black;
+}
+
+.ln-container .btnadicionar {
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    transition: 0.5s;
+    padding: 10px;
+    background-color: rgb(218, 218, 218);
+}
+
+.ln-container .btnadicionar:hover {
+    background-color: rgb(240, 111, 52);
+    transition: 0.5s;
+    cursor: pointer;
+    padding:10px;
+    color: white;
+}
+
+.ln-container .box{
+    width: 180px;
+    height: 130px;
+    background-color: rgb(226, 224, 224);
+    padding: 20px;
+    align-items: center;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.ln-container .box-valores {
+    display: flex;
+    gap: 10px;
+}
+
+.box-formulario {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content:start;
+    align-items: center;
+    gap: 10px;
+}
+
+.box-formulario .form-group {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-formulario .form-group input{
+    width: 400px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}

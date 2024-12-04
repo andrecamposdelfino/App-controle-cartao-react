@@ -1,0 +1,46 @@
+{
+  "lancamentos": [
+    {
+      "id": "1",
+      "data": "01/01/2024",
+      "credor": "Padre cicero",
+      "documento": 100,
+      "parcela": "1/2",
+      "valor": 200,
+      "classificacao": "Peças e acessorios",
+      "centro": "Ets - Oficina"
+    },
+    {
+      "id": "6690",
+      "data": "2024-11-12",
+      "credor": "G2 Locações",
+      "documento": "2514",
+      "parcela": "1",
+      "valor": 800,
+      "classificacao": "Locação de equipamentos",
+      "centro": "Ets - Alpha"
+    }
+  ],
+  "cartao": [
+    {
+      "id": "1",
+      "cartao": "9065"
+    },
+    {
+      "id": "2",
+      "cartao": "3744"
+    }
+  ],
+  "credor": [
+    {
+      "id": "1",
+      "credor": "Padre cicero",
+      "classificacao": "Peças e acessorios"
+    },
+    {
+      "id": "2",
+      "credor": "G2 Locações",
+      "classificacao": "Locação de equipamentos"
+    }
+  ]
+}
